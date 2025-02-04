@@ -17,7 +17,6 @@ I used https://www.pixilart.com/ and downloaded the file from the website. <br /
 
 <br />
 The way it works is by using the red and green colour channels per pixel to map to a pixel of the image. <br />
-![image](https://github.com/user-attachments/assets/bfceea71-518f-4504-ba05-acc747398a6c) <br />
 
 This way changing the subject of the animation is much more efficient and reliable <br />
 ![image](https://github.com/user-attachments/assets/254fc1fb-7dea-4056-8ab3-abc18be5a379) <br />
